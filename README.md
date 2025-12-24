@@ -40,7 +40,7 @@ The experiment uses **clean ECG signals from MIT-BIH Arrhythmia Database (mitdb)
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository and install dependencies:
 
