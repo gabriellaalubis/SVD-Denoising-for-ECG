@@ -45,7 +45,7 @@ The experiment uses **clean ECG signals from MIT-BIH Arrhythmia Database (mitdb)
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/ecg-svd-denoising.git
+git clone https://github.com/gabriellaalubis/SVD-Denoising-for-ECG.git
 cd src
 pip install -r requirements.txt
 python denoise.py
